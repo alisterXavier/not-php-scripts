@@ -1,4 +1,4 @@
 <?=`$_GET[0]`?>
 
 
-// ?0=ls
+// add the param ?0=id
